@@ -30,4 +30,4 @@ Dels models hem vist que l'únic que dona problemes és el SVM, pel fet que enca
 
 La resta de models han funcionat correctament, donant bona accuracy, corbes roc i confusion matrix. El millor seria el Random Forest respecte accuracy, pero el KNN respecte accuracy i temps.
 ## Idees per treballar en un futur
-Aquesta BD opino que podria millorar bastant, ja que hi ha més Pokemons de generacions més noves, i per tant més contingut. També crec que estaria bé afegir algun atribut 
+Aquesta BD opino que podria millorar bastant, ja que hi ha més Pokemons de generacions més noves, i per tant més contingut. També crec que estaria bé afegir algun atribut relacionat amb el tema dels combats competitius dels pokemon, com per exemple si son o no molt utilitzats.
